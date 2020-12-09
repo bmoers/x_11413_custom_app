@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-12-09 12:37:58">
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-12-09 13:26:24">
 <sys_remote_update_set action="INSERT_OR_UPDATE">
 <application display_value="02 &gt; Custom App 02">1f212e3a2f3c6450d8455aab2799b6cd</application>
 <application_name>02 &gt; Custom App 02</application_name>
@@ -20,11 +20,11 @@
 <summary/>
 <sys_class_name>sys_remote_update_set</sys_class_name>
 <sys_created_by>admin</sys_created_by>
-<sys_created_on>2020-12-09 12:37:57</sys_created_on>
-<sys_id>4b98a8e42f05a850d8455aab2799b654</sys_id>
+<sys_created_on>2020-12-09 13:26:23</sys_created_on>
+<sys_id>e8b3b0602f45a850d8455aab2799b692</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2020-12-09 12:37:57</sys_updated_on>
+<sys_updated_on>2020-12-09 13:26:23</sys_updated_on>
 <update_set display_value=""/>
 <update_source display_value=""/>
 <updated/>
@@ -34,18 +34,122 @@
 <application display_value="02 &gt; Custom App 02">1f212e3a2f3c6450d8455aab2799b6cd</application>
 <category>customer</category>
 <comments/>
+<name>sys_embedded_tour_step_cab2e6fa2f3c6450d8455aab2799b6e9</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_embedded_tour_step"&gt;&lt;sys_embedded_tour_step action="INSERT_OR_UPDATE"&gt;&lt;action&gt;false&lt;/action&gt;&lt;action_event&gt;next&lt;/action_event&gt;&lt;action_target/&gt;&lt;action_target_ref display_value="sys_display.incident.caller_id"&gt;ceb2e6fa2f3c6450d8455aab2799b6e7&lt;/action_target_ref&gt;&lt;active&gt;true&lt;/active&gt;&lt;content&gt;&lt;![CDATA[c]]&gt;&lt;/content&gt;&lt;guide display_value="Custom on Global Tables"&gt;44b262ba2f3c6450d8455aab2799b68b&lt;/guide&gt;&lt;implicit&gt;false&lt;/implicit&gt;&lt;link/&gt;&lt;name/&gt;&lt;options&gt;{"step_view":"ess"}&lt;/options&gt;&lt;order&gt;1&lt;/order&gt;&lt;placement&gt;bottom&lt;/placement&gt;&lt;step_type&gt;step&lt;/step_type&gt;&lt;sys_class_name&gt;sys_embedded_tour_step&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-12-04 11:02:04&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;cab2e6fa2f3c6450d8455aab2799b6e9&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="02 &amp;gt; Custom App 02" source="x_11413_custom_app"&gt;1f212e3a2f3c6450d8455aab2799b6cd&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="02 &amp;gt; Custom App 02"&gt;1f212e3a2f3c6450d8455aab2799b6cd&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_embedded_tour_step_cab2e6fa2f3c6450d8455aab2799b6e9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-12-04 11:02:04&lt;/sys_updated_on&gt;&lt;target/&gt;&lt;target_ref display_value="sys_display.incident.caller_id"&gt;ceb2e6fa2f3c6450d8455aab2799b6e7&lt;/target_ref&gt;&lt;title/&gt;&lt;ui_version&gt;dynamic&lt;/ui_version&gt;&lt;view/&gt;&lt;window&gt;incident.do&lt;/window&gt;&lt;/sys_embedded_tour_step&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=cab2e6fa2f3c6450d8455aab2799b6e9"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>479155224</payload_hash>
+<remote_update_set display_value="US 1 (02 &gt; Custom App 02)">e8b3b0602f45a850d8455aab2799b692</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-12-09 13:26:23</sys_created_on>
+<sys_id>24b3b0602f45a850d8455aab2799b694</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1762d6a87d50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-12-09 13:26:23</sys_updated_on>
+<table/>
+<target_name/>
+<type>Guided Tour Step</type>
+<update_domain>global</update_domain>
+<update_guid>8eb2e6fa1e3c6450f4423d98608754ea</update_guid>
+<update_guid_history>8eb2e6fa1e3c6450f4423d98608754ea:479155224</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="02 &gt; Custom App 02">1f212e3a2f3c6450d8455aab2799b6cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_embedded_tour_element_ceb2e6fa2f3c6450d8455aab2799b6e7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_element"><sys_embedded_tour_element action="INSERT_OR_UPDATE"><cell_edit/><cell_types/><col/><cxs_results/><element_type>textbox</element_type><field>caller_id</field><field_action/><field_header/><filters/><form_buttons>additional_actions</form_buttons><form_element>field</form_element><form_section/><frameset>nav_filter</frameset><list_element>ui_action</list_element><list_header/><manual_css/><name>sys_display.incident.caller_id</name><record_id/><related_field/><related_links/><related_list_element>ui_action</related_list_element><related_lists/><related_table/><row/><sys_class_name>sys_embedded_tour_element</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-04 11:02:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ceb2e6fa2f3c6450d8455aab2799b6e7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_display.incident.caller_id</sys_name><sys_overrides/><sys_package display_value="02 &gt; Custom App 02" source="x_11413_custom_app">1f212e3a2f3c6450d8455aab2799b6cd</sys_package><sys_policy/><sys_scope display_value="02 &gt; Custom App 02">1f212e3a2f3c6450d8455aab2799b6cd</sys_scope><sys_update_name>sys_embedded_tour_element_ceb2e6fa2f3c6450d8455aab2799b6e7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-04 11:02:04</sys_updated_on><table>incident</table><type>form</type><ui_action/></sys_embedded_tour_element></record_update>]]></payload>
+<payload_hash>-173652164</payload_hash>
+<remote_update_set display_value="US 1 (02 &gt; Custom App 02)">e8b3b0602f45a850d8455aab2799b692</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-12-09 13:26:23</sys_created_on>
+<sys_id>28b3b0602f45a850d8455aab2799b693</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1762d6a87520000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-12-09 13:26:23</sys_updated_on>
+<table>incident</table>
+<target_name>sys_display.incident.caller_id</target_name>
+<type>Guided Tour Element</type>
+<update_domain>global</update_domain>
+<update_guid>4eb2e6faa03c6450a93ba3b1fadf83e8</update_guid>
+<update_guid_history>4eb2e6faa03c6450a93ba3b1fadf83e8:-173652164</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="02 &gt; Custom App 02">1f212e3a2f3c6450d8455aab2799b6cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_embedded_tour_step_71c226fa2f3c6450d8455aab2799b63d</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_embedded_tour_step"&gt;&lt;sys_embedded_tour_step action="INSERT_OR_UPDATE"&gt;&lt;action&gt;true&lt;/action&gt;&lt;action_event&gt;click&lt;/action_event&gt;&lt;action_target/&gt;&lt;action_target_ref display_value="button[id=&amp;quot;sysverb_insert_bottom&amp;quot;].form_"&gt;b9c226fa2f3c6450d8455aab2799b63b&lt;/action_target_ref&gt;&lt;active&gt;true&lt;/active&gt;&lt;content&gt;&lt;![CDATA[s]]&gt;&lt;/content&gt;&lt;guide display_value="Custom on Global Tables"&gt;44b262ba2f3c6450d8455aab2799b68b&lt;/guide&gt;&lt;implicit&gt;false&lt;/implicit&gt;&lt;link/&gt;&lt;name/&gt;&lt;options&gt;{"step_view":"ess"}&lt;/options&gt;&lt;order&gt;3&lt;/order&gt;&lt;placement&gt;top&lt;/placement&gt;&lt;step_type&gt;step&lt;/step_type&gt;&lt;sys_class_name&gt;sys_embedded_tour_step&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-12-04 11:02:20&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;71c226fa2f3c6450d8455aab2799b63d&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="02 &amp;gt; Custom App 02" source="x_11413_custom_app"&gt;1f212e3a2f3c6450d8455aab2799b6cd&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="02 &amp;gt; Custom App 02"&gt;1f212e3a2f3c6450d8455aab2799b6cd&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_embedded_tour_step_71c226fa2f3c6450d8455aab2799b63d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-12-04 11:02:20&lt;/sys_updated_on&gt;&lt;target/&gt;&lt;target_ref display_value="button[id=&amp;quot;sysverb_insert_bottom&amp;quot;].form_"&gt;b9c226fa2f3c6450d8455aab2799b63b&lt;/target_ref&gt;&lt;title/&gt;&lt;ui_version&gt;dynamic&lt;/ui_version&gt;&lt;view/&gt;&lt;window&gt;incident.do&lt;/window&gt;&lt;/sys_embedded_tour_step&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=71c226fa2f3c6450d8455aab2799b63d"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1268159704</payload_hash>
+<remote_update_set display_value="US 1 (02 &gt; Custom App 02)">e8b3b0602f45a850d8455aab2799b692</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-12-09 13:26:23</sys_created_on>
+<sys_id>60b3b0602f45a850d8455aab2799b694</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1762d6ac40b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-12-09 13:26:23</sys_updated_on>
+<table/>
+<target_name/>
+<type>Guided Tour Step</type>
+<update_domain>global</update_domain>
+<update_guid>fdc226fa883c645050b50b73c561a73d</update_guid>
+<update_guid_history>fdc226fa883c645050b50b73c561a73d:-1268159704</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="02 &gt; Custom App 02">1f212e3a2f3c6450d8455aab2799b6cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_embedded_tour_element_b9c226fa2f3c6450d8455aab2799b63b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_element"><sys_embedded_tour_element action="INSERT_OR_UPDATE"><cell_edit/><cell_types/><col/><cxs_results/><element_type>button</element_type><field/><field_action/><field_header/><filters/><form_buttons>additional_actions</form_buttons><form_element>field</form_element><form_section/><frameset>nav_filter</frameset><list_element>ui_action</list_element><list_header/><manual_css>button[id="sysverb_insert_bottom"].form_action_button.action_context.btn.btn-default</manual_css><name>button[id="sysverb_insert_bottom"].form_</name><record_id/><related_field/><related_links/><related_list_element>ui_action</related_list_element><related_lists/><related_table/><row/><sys_class_name>sys_embedded_tour_element</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-04 11:02:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b9c226fa2f3c6450d8455aab2799b63b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>button[id="sysverb_insert_bottom"].form_</sys_name><sys_overrides/><sys_package display_value="02 &gt; Custom App 02" source="x_11413_custom_app">1f212e3a2f3c6450d8455aab2799b6cd</sys_package><sys_policy/><sys_scope display_value="02 &gt; Custom App 02">1f212e3a2f3c6450d8455aab2799b6cd</sys_scope><sys_update_name>sys_embedded_tour_element_b9c226fa2f3c6450d8455aab2799b63b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-04 11:02:20</sys_updated_on><table/><type>manual_css</type><ui_action/></sys_embedded_tour_element></record_update>]]></payload>
+<payload_hash>-205432143</payload_hash>
+<remote_update_set display_value="US 1 (02 &gt; Custom App 02)">e8b3b0602f45a850d8455aab2799b692</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-12-09 13:26:23</sys_created_on>
+<sys_id>64b3b0602f45a850d8455aab2799b693</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1762d6ac3b10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-12-09 13:26:23</sys_updated_on>
+<table/>
+<target_name>button[id="sysverb_insert_bottom"].form_</target_name>
+<type>Guided Tour Element</type>
+<update_domain>global</update_domain>
+<update_guid>35c226fa933c6450f2f7fea28b595b3c</update_guid>
+<update_guid_history>35c226fa933c6450f2f7fea28b595b3c:-205432143</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="02 &gt; Custom App 02">1f212e3a2f3c6450d8455aab2799b6cd</application>
+<category>customer</category>
+<comments/>
 <name>sys_embedded_tour_element_7bb22afa2f3c6450d8455aab2799b64b</name>
 <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_element"><sys_embedded_tour_element action="INSERT_OR_UPDATE"><cell_edit/><cell_types/><col/><cxs_results/><element_type>textbox</element_type><field>short_description</field><field_action/><field_header/><filters/><form_buttons>additional_actions</form_buttons><form_element>field</form_element><form_section/><frameset>nav_filter</frameset><list_element>ui_action</list_element><list_header/><manual_css/><name>incident.short_description</name><record_id/><related_field/><related_links/><related_list_element>ui_action</related_list_element><related_lists/><related_table/><row/><sys_class_name>sys_embedded_tour_element</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-04 11:02:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7bb22afa2f3c6450d8455aab2799b64b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>incident.short_description</sys_name><sys_overrides/><sys_package display_value="02 &gt; Custom App 02" source="x_11413_custom_app">1f212e3a2f3c6450d8455aab2799b6cd</sys_package><sys_policy/><sys_scope display_value="02 &gt; Custom App 02">1f212e3a2f3c6450d8455aab2799b6cd</sys_scope><sys_update_name>sys_embedded_tour_element_7bb22afa2f3c6450d8455aab2799b64b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-04 11:02:12</sys_updated_on><table>incident</table><type>form</type><ui_action/></sys_embedded_tour_element></record_update>]]></payload>
 <payload_hash>-502963462</payload_hash>
-<remote_update_set display_value="US 1 (02 &gt; Custom App 02)">4b98a8e42f05a850d8455aab2799b654</remote_update_set>
+<remote_update_set display_value="US 1 (02 &gt; Custom App 02)">e8b3b0602f45a850d8455aab2799b692</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
 <sys_created_by>admin</sys_created_by>
-<sys_created_on>2020-12-09 12:37:57</sys_created_on>
-<sys_id>0398a8e42f05a850d8455aab2799b655</sys_id>
+<sys_created_on>2020-12-09 13:26:23</sys_created_on>
+<sys_id>a0b3b0602f45a850d8455aab2799b693</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>1762d6aa3cf0000001</sys_recorded_at>
 <sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2020-12-09 12:37:57</sys_updated_on>
+<sys_updated_on>2020-12-09 13:26:23</sys_updated_on>
 <table>incident</table>
 <target_name>incident.short_description</target_name>
 <type>Guided Tour Element</type>
@@ -63,15 +167,15 @@
 <name>sys_embedded_tour_step_33b22afa2f3c6450d8455aab2799b64d</name>
 <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_embedded_tour_step"&gt;&lt;sys_embedded_tour_step action="INSERT_OR_UPDATE"&gt;&lt;action&gt;false&lt;/action&gt;&lt;action_event&gt;next&lt;/action_event&gt;&lt;action_target/&gt;&lt;action_target_ref display_value="incident.short_description"&gt;7bb22afa2f3c6450d8455aab2799b64b&lt;/action_target_ref&gt;&lt;active&gt;true&lt;/active&gt;&lt;content&gt;&lt;![CDATA[s]]&gt;&lt;/content&gt;&lt;guide display_value="Custom on Global Tables"&gt;44b262ba2f3c6450d8455aab2799b68b&lt;/guide&gt;&lt;implicit&gt;false&lt;/implicit&gt;&lt;link/&gt;&lt;name/&gt;&lt;options&gt;{"step_view":"ess"}&lt;/options&gt;&lt;order&gt;2&lt;/order&gt;&lt;placement&gt;bottom&lt;/placement&gt;&lt;step_type&gt;step&lt;/step_type&gt;&lt;sys_class_name&gt;sys_embedded_tour_step&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-12-04 11:02:12&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;33b22afa2f3c6450d8455aab2799b64d&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="02 &amp;gt; Custom App 02" source="x_11413_custom_app"&gt;1f212e3a2f3c6450d8455aab2799b6cd&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="02 &amp;gt; Custom App 02"&gt;1f212e3a2f3c6450d8455aab2799b6cd&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_embedded_tour_step_33b22afa2f3c6450d8455aab2799b64d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-12-04 11:02:12&lt;/sys_updated_on&gt;&lt;target/&gt;&lt;target_ref display_value="incident.short_description"&gt;7bb22afa2f3c6450d8455aab2799b64b&lt;/target_ref&gt;&lt;title/&gt;&lt;ui_version&gt;dynamic&lt;/ui_version&gt;&lt;view/&gt;&lt;window&gt;incident.do&lt;/window&gt;&lt;/sys_embedded_tour_step&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=33b22afa2f3c6450d8455aab2799b64d"/&gt;&lt;/record_update&gt;</payload>
 <payload_hash>528067017</payload_hash>
-<remote_update_set display_value="US 1 (02 &gt; Custom App 02)">4b98a8e42f05a850d8455aab2799b654</remote_update_set>
+<remote_update_set display_value="US 1 (02 &gt; Custom App 02)">e8b3b0602f45a850d8455aab2799b692</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
 <sys_created_by>admin</sys_created_by>
-<sys_created_on>2020-12-09 12:37:57</sys_created_on>
-<sys_id>0f98a8e42f05a850d8455aab2799b655</sys_id>
+<sys_created_on>2020-12-09 13:26:23</sys_created_on>
+<sys_id>acb3b0602f45a850d8455aab2799b693</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>1762d6aa3f10000001</sys_recorded_at>
 <sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2020-12-09 12:37:57</sys_updated_on>
+<sys_updated_on>2020-12-09 13:26:23</sys_updated_on>
 <table/>
 <target_name/>
 <type>Guided Tour Step</type>
@@ -86,44 +190,18 @@
 <application display_value="02 &gt; Custom App 02">1f212e3a2f3c6450d8455aab2799b6cd</application>
 <category>customer</category>
 <comments/>
-<name>sys_embedded_tour_step_cab2e6fa2f3c6450d8455aab2799b6e9</name>
-<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_embedded_tour_step"&gt;&lt;sys_embedded_tour_step action="INSERT_OR_UPDATE"&gt;&lt;action&gt;false&lt;/action&gt;&lt;action_event&gt;next&lt;/action_event&gt;&lt;action_target/&gt;&lt;action_target_ref display_value="sys_display.incident.caller_id"&gt;ceb2e6fa2f3c6450d8455aab2799b6e7&lt;/action_target_ref&gt;&lt;active&gt;true&lt;/active&gt;&lt;content&gt;&lt;![CDATA[c]]&gt;&lt;/content&gt;&lt;guide display_value="Custom on Global Tables"&gt;44b262ba2f3c6450d8455aab2799b68b&lt;/guide&gt;&lt;implicit&gt;false&lt;/implicit&gt;&lt;link/&gt;&lt;name/&gt;&lt;options&gt;{"step_view":"ess"}&lt;/options&gt;&lt;order&gt;1&lt;/order&gt;&lt;placement&gt;bottom&lt;/placement&gt;&lt;step_type&gt;step&lt;/step_type&gt;&lt;sys_class_name&gt;sys_embedded_tour_step&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-12-04 11:02:04&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;cab2e6fa2f3c6450d8455aab2799b6e9&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="02 &amp;gt; Custom App 02" source="x_11413_custom_app"&gt;1f212e3a2f3c6450d8455aab2799b6cd&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="02 &amp;gt; Custom App 02"&gt;1f212e3a2f3c6450d8455aab2799b6cd&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_embedded_tour_step_cab2e6fa2f3c6450d8455aab2799b6e9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-12-04 11:02:04&lt;/sys_updated_on&gt;&lt;target/&gt;&lt;target_ref display_value="sys_display.incident.caller_id"&gt;ceb2e6fa2f3c6450d8455aab2799b6e7&lt;/target_ref&gt;&lt;title/&gt;&lt;ui_version&gt;dynamic&lt;/ui_version&gt;&lt;view/&gt;&lt;window&gt;incident.do&lt;/window&gt;&lt;/sys_embedded_tour_step&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=cab2e6fa2f3c6450d8455aab2799b6e9"/&gt;&lt;/record_update&gt;</payload>
-<payload_hash>479155224</payload_hash>
-<remote_update_set display_value="US 1 (02 &gt; Custom App 02)">4b98a8e42f05a850d8455aab2799b654</remote_update_set>
-<replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>admin</sys_created_by>
-<sys_created_on>2020-12-09 12:37:57</sys_created_on>
-<sys_id>479820282f05a850d8455aab2799b6cc</sys_id>
-<sys_mod_count>0</sys_mod_count>
-<sys_recorded_at>1762d6a87d50000001</sys_recorded_at>
-<sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2020-12-09 12:37:57</sys_updated_on>
-<table/>
-<target_name/>
-<type>Guided Tour Step</type>
-<update_domain>global</update_domain>
-<update_guid>8eb2e6fa1e3c6450f4423d98608754ea</update_guid>
-<update_guid_history>8eb2e6fa1e3c6450f4423d98608754ea:479155224</update_guid_history>
-<update_set display_value=""/>
-<view/>
-</sys_update_xml>
-<sys_update_xml action="INSERT_OR_UPDATE">
-<action>INSERT_OR_UPDATE</action>
-<application display_value="02 &gt; Custom App 02">1f212e3a2f3c6450d8455aab2799b6cd</application>
-<category>customer</category>
-<comments/>
 <name>sys_embedded_tour_guide_44b262ba2f3c6450d8455aab2799b68b</name>
 <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_guide"><sys_embedded_tour_guide action="INSERT_OR_UPDATE"><active>true</active><additional_parameters/><autolaunch_order>0</autolaunch_order><context>incident</context><description/><has_concl>false</has_concl><has_intro>false</has_intro><name>Custom on Global Tables</name><options/><roles/><sp_page/><sp_portal/><status>draft</status><sys_class_name>sys_embedded_tour_guide</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-04 11:01:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>44b262ba2f3c6450d8455aab2799b68b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Custom on Global Tables</sys_name><sys_overrides/><sys_package display_value="02 &gt; Custom App 02" source="x_11413_custom_app">1f212e3a2f3c6450d8455aab2799b6cd</sys_package><sys_policy/><sys_scope display_value="02 &gt; Custom App 02">1f212e3a2f3c6450d8455aab2799b6cd</sys_scope><sys_update_name>sys_embedded_tour_guide_44b262ba2f3c6450d8455aab2799b68b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-04 11:01:57</sys_updated_on><type>platform</type></sys_embedded_tour_guide></record_update>]]></payload>
 <payload_hash>-1050218551</payload_hash>
-<remote_update_set display_value="US 1 (02 &gt; Custom App 02)">4b98a8e42f05a850d8455aab2799b654</remote_update_set>
+<remote_update_set display_value="US 1 (02 &gt; Custom App 02)">e8b3b0602f45a850d8455aab2799b692</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
 <sys_created_by>admin</sys_created_by>
-<sys_created_on>2020-12-09 12:37:57</sys_created_on>
-<sys_id>4b98a8e42f05a850d8455aab2799b655</sys_id>
+<sys_created_on>2020-12-09 13:26:23</sys_created_on>
+<sys_id>e8b3b0602f45a850d8455aab2799b693</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>1762d6a69260000001</sys_recorded_at>
 <sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2020-12-09 12:37:57</sys_updated_on>
+<sys_updated_on>2020-12-09 13:26:23</sys_updated_on>
 <table/>
 <target_name>Custom on Global Tables</target_name>
 <type>Guided Tour</type>
@@ -141,99 +219,21 @@
 <name>sys_app_1f212e3a2f3c6450d8455aab2799b6cd</name>
 <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>log</enforce_license><guided_setup_guid/><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu/><name>02 &gt; Custom App 02</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_11413_custom_app</scope><scoped_administration>false</scoped_administration><short_description/><source>x_11413_custom_app</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-04 10:55:20</sys_created_on><sys_id>1f212e3a2f3c6450d8455aab2799b6cd</sys_id><sys_mod_count>3</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-04 10:58:52</sys_updated_on><template/><trackable>true</trackable><u_repository/><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
 <payload_hash>-349839636</payload_hash>
-<remote_update_set display_value="US 1 (02 &gt; Custom App 02)">4b98a8e42f05a850d8455aab2799b654</remote_update_set>
+<remote_update_set display_value="US 1 (02 &gt; Custom App 02)">e8b3b0602f45a850d8455aab2799b692</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
 <sys_created_by>admin</sys_created_by>
-<sys_created_on>2020-12-09 12:37:57</sys_created_on>
-<sys_id>4f98a8e42f05a850d8455aab2799b654</sys_id>
+<sys_created_on>2020-12-09 13:26:23</sys_created_on>
+<sys_id>ecb3b0602f45a850d8455aab2799b692</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>176477f48680000001</sys_recorded_at>
 <sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2020-12-09 12:37:57</sys_updated_on>
+<sys_updated_on>2020-12-09 13:26:23</sys_updated_on>
 <table/>
 <target_name>02 &gt; Custom App 02</target_name>
 <type>Custom Application</type>
 <update_domain>global</update_domain>
 <update_guid>0ee7ec644205a850c4737c58f8eb8151</update_guid>
 <update_guid_history>0ee7ec644205a850c4737c58f8eb8151:-349839636,83f16e7a713c64504e0b1d3feb79777d:-349839636,d0e16e7a1c3c64509dbadd004436fb57:212827607,30b1667a093c6450624a85e1b8cffe1a:443980953,db21ee3ae33c6450e310b1600457fd40:-173407030</update_guid_history>
-<update_set display_value=""/>
-<view/>
-</sys_update_xml>
-<sys_update_xml action="INSERT_OR_UPDATE">
-<action>INSERT_OR_UPDATE</action>
-<application display_value="02 &gt; Custom App 02">1f212e3a2f3c6450d8455aab2799b6cd</application>
-<category>customer</category>
-<comments/>
-<name>sys_embedded_tour_step_71c226fa2f3c6450d8455aab2799b63d</name>
-<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_embedded_tour_step"&gt;&lt;sys_embedded_tour_step action="INSERT_OR_UPDATE"&gt;&lt;action&gt;true&lt;/action&gt;&lt;action_event&gt;click&lt;/action_event&gt;&lt;action_target/&gt;&lt;action_target_ref display_value="button[id=&amp;quot;sysverb_insert_bottom&amp;quot;].form_"&gt;b9c226fa2f3c6450d8455aab2799b63b&lt;/action_target_ref&gt;&lt;active&gt;true&lt;/active&gt;&lt;content&gt;&lt;![CDATA[s]]&gt;&lt;/content&gt;&lt;guide display_value="Custom on Global Tables"&gt;44b262ba2f3c6450d8455aab2799b68b&lt;/guide&gt;&lt;implicit&gt;false&lt;/implicit&gt;&lt;link/&gt;&lt;name/&gt;&lt;options&gt;{"step_view":"ess"}&lt;/options&gt;&lt;order&gt;3&lt;/order&gt;&lt;placement&gt;top&lt;/placement&gt;&lt;step_type&gt;step&lt;/step_type&gt;&lt;sys_class_name&gt;sys_embedded_tour_step&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-12-04 11:02:20&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;71c226fa2f3c6450d8455aab2799b63d&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="02 &amp;gt; Custom App 02" source="x_11413_custom_app"&gt;1f212e3a2f3c6450d8455aab2799b6cd&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="02 &amp;gt; Custom App 02"&gt;1f212e3a2f3c6450d8455aab2799b6cd&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_embedded_tour_step_71c226fa2f3c6450d8455aab2799b63d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-12-04 11:02:20&lt;/sys_updated_on&gt;&lt;target/&gt;&lt;target_ref display_value="button[id=&amp;quot;sysverb_insert_bottom&amp;quot;].form_"&gt;b9c226fa2f3c6450d8455aab2799b63b&lt;/target_ref&gt;&lt;title/&gt;&lt;ui_version&gt;dynamic&lt;/ui_version&gt;&lt;view/&gt;&lt;window&gt;incident.do&lt;/window&gt;&lt;/sys_embedded_tour_step&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=71c226fa2f3c6450d8455aab2799b63d"/&gt;&lt;/record_update&gt;</payload>
-<payload_hash>-1268159704</payload_hash>
-<remote_update_set display_value="US 1 (02 &gt; Custom App 02)">4b98a8e42f05a850d8455aab2799b654</remote_update_set>
-<replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>admin</sys_created_by>
-<sys_created_on>2020-12-09 12:37:57</sys_created_on>
-<sys_id>839820282f05a850d8455aab2799b6cc</sys_id>
-<sys_mod_count>0</sys_mod_count>
-<sys_recorded_at>1762d6ac40b0000001</sys_recorded_at>
-<sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2020-12-09 12:37:57</sys_updated_on>
-<table/>
-<target_name/>
-<type>Guided Tour Step</type>
-<update_domain>global</update_domain>
-<update_guid>fdc226fa883c645050b50b73c561a73d</update_guid>
-<update_guid_history>fdc226fa883c645050b50b73c561a73d:-1268159704</update_guid_history>
-<update_set display_value=""/>
-<view/>
-</sys_update_xml>
-<sys_update_xml action="INSERT_OR_UPDATE">
-<action>INSERT_OR_UPDATE</action>
-<application display_value="02 &gt; Custom App 02">1f212e3a2f3c6450d8455aab2799b6cd</application>
-<category>customer</category>
-<comments/>
-<name>sys_embedded_tour_element_ceb2e6fa2f3c6450d8455aab2799b6e7</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_element"><sys_embedded_tour_element action="INSERT_OR_UPDATE"><cell_edit/><cell_types/><col/><cxs_results/><element_type>textbox</element_type><field>caller_id</field><field_action/><field_header/><filters/><form_buttons>additional_actions</form_buttons><form_element>field</form_element><form_section/><frameset>nav_filter</frameset><list_element>ui_action</list_element><list_header/><manual_css/><name>sys_display.incident.caller_id</name><record_id/><related_field/><related_links/><related_list_element>ui_action</related_list_element><related_lists/><related_table/><row/><sys_class_name>sys_embedded_tour_element</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-04 11:02:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ceb2e6fa2f3c6450d8455aab2799b6e7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_display.incident.caller_id</sys_name><sys_overrides/><sys_package display_value="02 &gt; Custom App 02" source="x_11413_custom_app">1f212e3a2f3c6450d8455aab2799b6cd</sys_package><sys_policy/><sys_scope display_value="02 &gt; Custom App 02">1f212e3a2f3c6450d8455aab2799b6cd</sys_scope><sys_update_name>sys_embedded_tour_element_ceb2e6fa2f3c6450d8455aab2799b6e7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-04 11:02:04</sys_updated_on><table>incident</table><type>form</type><ui_action/></sys_embedded_tour_element></record_update>]]></payload>
-<payload_hash>-173652164</payload_hash>
-<remote_update_set display_value="US 1 (02 &gt; Custom App 02)">4b98a8e42f05a850d8455aab2799b654</remote_update_set>
-<replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>admin</sys_created_by>
-<sys_created_on>2020-12-09 12:37:57</sys_created_on>
-<sys_id>8798a8e42f05a850d8455aab2799b655</sys_id>
-<sys_mod_count>0</sys_mod_count>
-<sys_recorded_at>1762d6a87520000001</sys_recorded_at>
-<sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2020-12-09 12:37:57</sys_updated_on>
-<table>incident</table>
-<target_name>sys_display.incident.caller_id</target_name>
-<type>Guided Tour Element</type>
-<update_domain>global</update_domain>
-<update_guid>4eb2e6faa03c6450a93ba3b1fadf83e8</update_guid>
-<update_guid_history>4eb2e6faa03c6450a93ba3b1fadf83e8:-173652164</update_guid_history>
-<update_set display_value=""/>
-<view/>
-</sys_update_xml>
-<sys_update_xml action="INSERT_OR_UPDATE">
-<action>INSERT_OR_UPDATE</action>
-<application display_value="02 &gt; Custom App 02">1f212e3a2f3c6450d8455aab2799b6cd</application>
-<category>customer</category>
-<comments/>
-<name>sys_embedded_tour_element_b9c226fa2f3c6450d8455aab2799b63b</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_element"><sys_embedded_tour_element action="INSERT_OR_UPDATE"><cell_edit/><cell_types/><col/><cxs_results/><element_type>button</element_type><field/><field_action/><field_header/><filters/><form_buttons>additional_actions</form_buttons><form_element>field</form_element><form_section/><frameset>nav_filter</frameset><list_element>ui_action</list_element><list_header/><manual_css>button[id="sysverb_insert_bottom"].form_action_button.action_context.btn.btn-default</manual_css><name>button[id="sysverb_insert_bottom"].form_</name><record_id/><related_field/><related_links/><related_list_element>ui_action</related_list_element><related_lists/><related_table/><row/><sys_class_name>sys_embedded_tour_element</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-04 11:02:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b9c226fa2f3c6450d8455aab2799b63b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>button[id="sysverb_insert_bottom"].form_</sys_name><sys_overrides/><sys_package display_value="02 &gt; Custom App 02" source="x_11413_custom_app">1f212e3a2f3c6450d8455aab2799b6cd</sys_package><sys_policy/><sys_scope display_value="02 &gt; Custom App 02">1f212e3a2f3c6450d8455aab2799b6cd</sys_scope><sys_update_name>sys_embedded_tour_element_b9c226fa2f3c6450d8455aab2799b63b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-04 11:02:20</sys_updated_on><table/><type>manual_css</type><ui_action/></sys_embedded_tour_element></record_update>]]></payload>
-<payload_hash>-205432143</payload_hash>
-<remote_update_set display_value="US 1 (02 &gt; Custom App 02)">4b98a8e42f05a850d8455aab2799b654</remote_update_set>
-<replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>admin</sys_created_by>
-<sys_created_on>2020-12-09 12:37:57</sys_created_on>
-<sys_id>c398a8e42f05a850d8455aab2799b655</sys_id>
-<sys_mod_count>0</sys_mod_count>
-<sys_recorded_at>1762d6ac3b10000001</sys_recorded_at>
-<sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2020-12-09 12:37:57</sys_updated_on>
-<table/>
-<target_name>button[id="sysverb_insert_bottom"].form_</target_name>
-<type>Guided Tour Element</type>
-<update_domain>global</update_domain>
-<update_guid>35c226fa933c6450f2f7fea28b595b3c</update_guid>
-<update_guid_history>35c226fa933c6450f2f7fea28b595b3c:-205432143</update_guid_history>
 <update_set display_value=""/>
 <view/>
 </sys_update_xml>
