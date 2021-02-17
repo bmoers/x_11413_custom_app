@@ -1,0 +1,15 @@
+{
+  "sys_class_name": "sys_security_acl_role",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-12-04 10:56:00",
+  "sys_id": "c551a27a2f3c6450d8455aab2799b64e",
+  "sys_mod_count": 0,
+  "sys_name": "x_11413_custom_app_table_01.x_11413_custom_app.table_01_user",
+  "sys_package": "1f212e3a2f3c6450d8455aab2799b6cd",
+  "sys_policy": null,
+  "sys_scope": "1f212e3a2f3c6450d8455aab2799b6cd",
+  "sys_update_name": "sys_security_acl_role_c551a27a2f3c6450d8455aab2799b64e",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-12-04 10:56:00",
+  "transaction_id": null
+}

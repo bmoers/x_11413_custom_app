@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Default access control on x_11413_custom_app_table_01",
+  "name": "x_11413_custom_app_table_01",
+  "operation": "read",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-12-04 10:56:00",
+  "sys_id": "0151a27a2f3c6450d8455aab2799b652",
+  "sys_mod_count": 0,
+  "sys_name": "x_11413_custom_app_table_01",
+  "sys_package": "1f212e3a2f3c6450d8455aab2799b6cd",
+  "sys_policy": null,
+  "sys_scope": "1f212e3a2f3c6450d8455aab2799b6cd",
+  "sys_update_name": "sys_security_acl_0151a27a2f3c6450d8455aab2799b652",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-12-04 10:56:00",
+  "type": "record"
+}
