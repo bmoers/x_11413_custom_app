@@ -467,6 +467,38 @@ const test = () => {
 
 }
 
+const testApp = () => {
+
+    if (arg['on-host'])
+        process.env.CICD_RUN_TEST_ON_HOST = arg['on-host'];
+
+    if (arg['suites'])
+        process.env.CICD_RUN_SUITES = arg['suites'];
+    if (arg['tests'])
+        process.env.CICD_RUN_TESTS = arg['tests'];
+
+    
+    if (!process.env.CICD_RUN_SUITES && !process.env.CICD_RUN_TESTS)
+        throw Error('suites or tests is required');
+
+    if (!cicdServerFqdn)
+        throw Error('CICD Server endpoint not set. Use CICD_GULP_HOST_FQDN or CICD_WEB_HTTP(S)_PORT and CICD_WEB_HOST_NAME env variables');
+
+    console.log(`Gulp Task [TEST-APP] - suites: ${process.env.CICD_RUN_SUITES}; tests: ${process.env.CICD_RUN_TESTS}; on-host: ${process.env.CICD_RUN_TEST_ON_HOST}`)
+
+    return src(['test/*.js'], {
+        read: false
+    }).pipe(mocha({
+        reporter: 'xunit',
+        reporterOptions: {
+            output: 'test-results.xml'
+        },
+        timeout: 30000,
+        delay: true
+    }));
+
+}
+
 /**
  * Deploy or deliver a change to a target environment
  * If GIT is enabled the updateset is constructed as a delta based on the last 
@@ -628,7 +660,13 @@ exports.build = build;
 
 exports.test = test;
 
+exports.test_app = testApp;
+
 exports.deploy = deploy;
 
 exports.default = build;
 
+exports.help = () => {
+    console.log(`run: npm run <script> -- --key value --boolean`);
+    console.log(`.. or alternatively: npm run gulp <gulp-command> -- --key value --boolean`);
+}
