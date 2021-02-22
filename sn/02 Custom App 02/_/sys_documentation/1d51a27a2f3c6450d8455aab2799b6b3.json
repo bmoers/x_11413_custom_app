@@ -1,0 +1,23 @@
+{
+  "element": null,
+  "help": null,
+  "hint": null,
+  "label": "table 01",
+  "language": "en",
+  "name": "x_11413_custom_app_table_01",
+  "plural": "table 01s",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-12-04 10:56:01",
+  "sys_id": "1d51a27a2f3c6450d8455aab2799b6b3",
+  "sys_mod_count": 0,
+  "sys_name": "table 01",
+  "sys_package": "1f212e3a2f3c6450d8455aab2799b6cd",
+  "sys_policy": null,
+  "sys_scope": "1f212e3a2f3c6450d8455aab2799b6cd",
+  "sys_update_name": "sys_documentation_x_11413_custom_app_table_01__en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-12-04 10:56:01",
+  "url": null,
+  "url_target": null
+}

@@ -1,0 +1,23 @@
+{
+  "element": "teste_2",
+  "help": null,
+  "hint": null,
+  "label": "teste 2",
+  "language": "en",
+  "name": "x_11413_custom_app_table_01",
+  "plural": "teste 2s",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-12-04 10:57:03",
+  "sys_id": "6c91e67a2f3c6450d8455aab2799b684",
+  "sys_mod_count": 0,
+  "sys_name": "teste 2",
+  "sys_package": "1f212e3a2f3c6450d8455aab2799b6cd",
+  "sys_policy": null,
+  "sys_scope": "1f212e3a2f3c6450d8455aab2799b6cd",
+  "sys_update_name": "sys_documentation_x_11413_custom_app_table_01_teste_2_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-12-04 10:57:03",
+  "url": null,
+  "url_target": null
+}

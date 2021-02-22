@@ -1,0 +1,12 @@
+{
+  "field": "field_values",
+  "id": "58aef4072f122854d8455aab2799b648",
+  "sys_created_by": "admin",
+  "sys_created_on": "2021-02-17 11:57:47",
+  "sys_id": "d9bef4072f122854d8455aab2799b6ba",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2021-02-17 11:57:47",
+  "table": "var__m_atf_input_variable_0270b8005f30220012b44adb7f46666a",
+  "value": "sys_idSTARTSWITH{{step['e88eb8072f122854d8455aab2799b613'].record_id}}^EQ"
+}
